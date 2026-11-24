@@ -72,3 +72,15 @@ To finish the game
 This is the part one so wait for the part 2! //~~~
 
 ---
+---
+---
+Name= KWNL 1
+Devloper= kaku_dev
+Download= https://github.com/KAKUDEV-web/My-apk-releses/raw/refs/heads/main/KWNL%201.apk
+Icon-img= https://i.ibb.co/DDLCZJ2k/50407.png
+Screenshots= https://i.ibb.co/JwBNtnVy/50436.jpg, https://i.ibb.co/93S1RwgS/50437.jpg
+Catagory= Game, OpenWorld
+Description= ~~~// Just an open world game so play this for fun 
+and that's it bro🙂👍 I have ♾️ aura 🙂//~~~
+
+---
