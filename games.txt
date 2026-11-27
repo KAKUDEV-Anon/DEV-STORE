@@ -73,7 +73,6 @@ This is the part one so wait for the part 2! //~~~
 
 ---
 ---
----
 Name= KWNL 1
 Devloper= kaku_dev
 Download= https://github.com/KAKUDEV-web/My-apk-releses/raw/refs/heads/main/KWNL%201.apk
@@ -82,5 +81,34 @@ Screenshots= https://i.ibb.co/JwBNtnVy/50436.jpg, https://i.ibb.co/93S1RwgS/5043
 Catagory= Game, OpenWorld
 Description= ~~~// Just an open world game so play this for fun 
 and that's it bro🙂👍 I have ♾️ aura 🙂//~~~
+
+---
+---
+Name= Backrooms Hijra
+Devloper= kaku_dev
+Download= https://cdn.jsdelivr.net/gh/KAKUDEV-web/My-apk-releses@main/Backrooms%20Hijra.apk
+Icon-img= https://i.ibb.co/DfkcJ2PS/img-u7531657590285383592-1-change-the-text-font-and-color-to-match-the-bg-and.jpg
+Screenshots= https://i.ibb.co/DfkcJ2PS/img-u7531657590285383592-1-change-the-text-font-and-color-to-match-the-bg-and.jpg
+Catagory= Game, Horror
+Description= ~~~// BACKROOMS HIJRA
+A true 3D WebGL survival horror built entirely in vanilla HTML, CSS, and JavaScript.
+
+Trapped in an endless maze of towering yellow rooms, you must find 10 hidden keys to unlock the exit before the Hijra catches you. The map is procedurally generated with large open halls, scattered pillars for cover, and wide connectors — no cramped corridors.
+
+The Hijra only makes sound when it is actively chasing you. The audio plays instantly at full volume the moment pursuit begins, scales with distance (louder = closer), loops continuously while hunted, and cuts to dead silence the second it gives up. If you hear nothing, you're safe. If you hear it getting louder, run.
+
+Features:
+• True 3D perspective rendering via WebGL with real depth, distance fog, and fluorescent flicker
+• Separate textured floor, ceiling, and wall surfaces (procedural fallbacks if assets are missing)
+• BFS pathfinding enemy AI with patrol, chase, and search states
+• Mobile-first dual-touch controls: left-side virtual joystick + right-side look drag, both simultaneous
+• Sprint system with stamina management
+• Instant audio response with pre-buffered decoding on play button press
+• Glassmorphism UI with side-docked menu buttons optimized for mobile screens
+• Typewriter intro sequence with BackRooms wallpaper texture effect
+• Settings persistence (volume, sensitivity, graphics quality, FPS counter)
+• Zero external dependencies — runs offline on GitHub Pages or any static host
+
+Presented by kaku_dev //~~~
 
 ---
