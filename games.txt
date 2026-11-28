@@ -81,7 +81,7 @@ Screenshots= https://i.ibb.co/JwBNtnVy/50436.jpg, https://i.ibb.co/93S1RwgS/5043
 Catagory= Game, OpenWorld
 Description= ~~~// Just an open world game so play this for fun 
 and that's it bro🙂👍 I have ♾️ aura 🙂//~~~
-
+size= 15.5 MB
 ---
 ---
 Name= Backrooms Hijra
