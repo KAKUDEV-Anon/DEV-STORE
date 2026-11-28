@@ -5,6 +5,7 @@ Download= https://cdn.jsdelivr.net/gh/KAKUDEV-web/My-apk-releses@main/Uno%20But%
 Icon-img= https://i.ibb.co/GB06VgH/1794371233030.png
 Screenshots= https://i.ibb.co/GB06VgH/1794371233030.png
 Catagory= Game, Funny
+version=1.1
 Description= ~~~// ★ UNO BUT IN RUSSIA — HARDBASS EDITION ★
 
 The classic card game you love — rebuilt in a snowy Russian courtyard,
@@ -70,7 +71,7 @@ To finish the game
 
 
 This is the part one so wait for the part 2! //~~~
-
+version=1.1
 ---
 ---
 Name= KWNL 1
@@ -82,6 +83,7 @@ Catagory= Game, OpenWorld
 Description= ~~~// Just an open world game so play this for fun 
 and that's it bro🙂👍 I have ♾️ aura 🙂//~~~
 size= 15.5 MB
+version=1.1
 ---
 ---
 Name= Backrooms Hijra
@@ -90,6 +92,7 @@ Download= https://cdn.jsdelivr.net/gh/KAKUDEV-web/My-apk-releses@main/Backrooms%
 Icon-img= https://i.ibb.co/DfkcJ2PS/img-u7531657590285383592-1-change-the-text-font-and-color-to-match-the-bg-and.jpg
 Screenshots= https://i.ibb.co/DfkcJ2PS/img-u7531657590285383592-1-change-the-text-font-and-color-to-match-the-bg-and.jpg
 Catagory= Game, Horror
+version=1.1
 Description= ~~~// BACKROOMS HIJRA
 A true 3D WebGL survival horror built entirely in vanilla HTML, CSS, and JavaScript.
 
